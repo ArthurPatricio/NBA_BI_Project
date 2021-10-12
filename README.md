@@ -1,2 +1,2 @@
-# ⛹️‍♀️⛹️‍♂️ NBA Dashboard
+# ⛹️‍♀️⛹️‍♂️ NBA BI Project
 
